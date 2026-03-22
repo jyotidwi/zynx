@@ -33,4 +33,4 @@ Enables Zygisk compatibility layer, allowing Zynx to load Zygisk modules.
 
 ## License
 
-MIT
+Unlicense
